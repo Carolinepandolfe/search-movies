@@ -21,7 +21,9 @@ ser carregado uma “tooltip”, com as informações restantesEssa “tooltip�
 uma tela de detalhes do filme;
 
 - Essa tela deve mostrar apenas os 6 primeiros resultados e deve possuir paginação infinita mostrando de 6 em 6 itens;
-Tela Detalhes:• A partir do resultado retornado na chamada anterior, deve ser feita uma chamada para http://omdbapi.com/?i={imbd_id} 
+
+## Tela Detalhes
+- A partir do resultado retornado na chamada anterior, deve ser feita uma chamada para http://omdbapi.com/?i={imbd_id} 
 que retorna os campos (Title, Year, Rated, Released, Genre, Director, Writer, Actors, Plot, Language, Country, Awards, Poster, Metascore, 
 imdbRating, imdbVotes, imdbiD, Type).• A partir desse retorno deve-se montar uma tela onde apareçam todas essas informações. 
 Essa tela deve ter um botão para voltar para resultados da busca, que manda o usuário de volta para o topo dos resultados da busca
