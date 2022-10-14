@@ -1,5 +1,7 @@
 # Search Movies
 
+[Figma](https://www.figma.com/file/LoHyhqNFBA3OGzeJR5gZnw/Search-movies?node-id=0%3A1)
+
 - Utilizar algum framework CSS (Bootstrap, Materialize, Foundation, Material UI) ou algum pré-processador de CSS (SASS, LESS, Stylus);
 - Utilizar algum framework/lib JS (Angular, React, Vue, NextJS, etc.);
 - Utilização opcional de algum gerenciador de estado (Ex: Redux);
